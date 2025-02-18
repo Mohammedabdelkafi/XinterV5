@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <string>
-int main() {
+void main() {
 	printf("work in progress...");
 	return 0;
+}
+void tokenize() {
+
 }
