@@ -4,6 +4,6 @@ char a[] = "";
 int main() {
 	printf("Xinter ===>");
 	scanf("%s", &a);
-	printf("%s", a)
+	printf("%s", a);
 	return 0;
 }
