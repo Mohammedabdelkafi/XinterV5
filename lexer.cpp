@@ -1,7 +1,7 @@
 #include <stdio.h>
 char src[256];
 int advance();
-int pos;
+int pos = -1;
 char CC[256];
 int main() {
 	printf("Xinter ===>");
