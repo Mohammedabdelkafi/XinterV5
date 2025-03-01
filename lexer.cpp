@@ -13,3 +13,8 @@ int advance() {
 	pos++;
 	char CC[] = src[pos];
 }
+int tokenize() {
+	if (CC=="+") {
+		printf("yes :)");
+	}
+}
